@@ -1,4 +1,4 @@
-- Hey! You can call me @Sir-Puppy
+- Hey! You can call me Ian
 - I’m currently interested in deep learning and AI in general
 - I’m currently studying a specialization in deep learning
 - I’m looking to collaborate on ... Anything really. I always welcome a little challenge or a little test.
